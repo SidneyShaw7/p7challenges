@@ -1,0 +1,15 @@
+[submodule "p7redux-bloglist"]
+	path = p7redux-bloglist
+	url = https://github.com/SidneyShaw7/p7redux-bloglist
+[submodule "p7query-bloglist"]
+	path = p7query-bloglist
+	url = https://github.com/SidneyShaw7/p7query-bloglist
+[submodule "ultimate-hooks"]
+	path = ultimate-hooks
+	url = https://github.com/SidneyShaw7/ultimate-hooks.git
+[submodule "country-hook"]
+	path = country-hook
+	url = https://github.com/SidneyShaw7/country-hook.git
+[submodule "routed-anecdotes"]
+	path = routed-anecdotes
+	url = https://github.com/SidneyShaw7/routed-anecdotes.git
